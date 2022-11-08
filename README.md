@@ -40,41 +40,7 @@
 
 <br/>
 
-
-### 5. 결과물 영상
-- 회원가입 및 로그인
-
-<video  src="https://user-images.githubusercontent.com/85235063/199139675-7e38be0f-01f3-47e4-ad92-17d2da865f45.mp4"  controls>비디오를 재생할 수 없습니다.</video>
-
-<br/>
-
-- 마이페이지
-
-<video  src="https://user-images.githubusercontent.com/85235063/199138821-8ce99a5b-6754-4f28-a3c1-ae0570e0ebda.mp4"  controls>비디오를 재생할 수 없습니다.</video>
-
-<br/>
-
-- 롤링페이퍼 생성(케이크 선택) 페이지
-
-<video  src="https://user-images.githubusercontent.com/85235063/199140036-35f4c5dc-903c-4c99-a1d9-a7a3e40bc8ed.mp4"  controls>비디오를 재생할 수 없습니다.</video>
-
-<br/>
-
-- 메인 페이지 및 메시지 작성 페이지
-
-<video src="https://user-images.githubusercontent.com/85235063/199141329-94809347-ac2d-4645-a1ff-dc18e1c9222f.mp4"  controls>비디오를 재생할 수 없습니다.</video>
-
-
-<br/>
-
-
-- 실제 공유 사례
-
-<video src="https://user-images.githubusercontent.com/85235063/199148363-66f9e074-4781-434b-a309-bef325c35b83.mp4"  controls>비디오를 재생할 수 없습니다.</video>
-
-<br/>
-
-### 6. 페이지 소개 
+### 5. 페이지 소개 
 
 ### 1) 회원가입 및 로그인 페이지 
 > 아이디 중복 확인, 비밀번호 6자리 이상 확인, jwt 발급
