@@ -3,6 +3,9 @@
 ## 🚢 향해 99 사전 프로젝트 - 🎂 birthday_rollingpaper '얘듀라 고마어어어'
 ### 생일 축하 롤링페이퍼를 만들어 공유해보아요! 
 
+>[얘두라 고마어어어 바로가기](http://an-dev.shop/)<br/>
+[얘두라 고마어어어 참여 회고록 바로가기](https://velog.io/@jejupalette/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0-%EC%96%98%EB%93%80%EB%9D%BC-%EA%B3%A0%EB%A7%88%EC%96%B4%EC%96%B4%EC%96%B4)
+
 <br/>
 
 ### 1. 프로젝트 소개
